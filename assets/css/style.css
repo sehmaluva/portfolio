@@ -57,6 +57,7 @@
     --light-gray-70: hsla(0, 0%, 84%, 0.7);
     --bittersweet-shimmer: hsl(0, 43%, 51%);
     --blue-black: hsl(210, 100%, 66%);
+    --light-blue: rgb(73, 139, 205);
   
     /**
      * typography
@@ -410,7 +411,7 @@
   }
   
   .contact-info :is(.contact-link, time, address) {
-    color: var(--white-2);
+    color: var(--light-blue);
     font-size: var(--fs-7);
   }
   
@@ -431,7 +432,7 @@
   }
   
   
-  .social-item .social-link:hover { color: var(--light-gray); }
+  .social-item .social-link:hover { color: var(--); }
   
     
 /*-----------------------------------*\
@@ -638,6 +639,10 @@
     height: 100%;
     border-radius: inherit;
   }
+  /*
+    -Certificate
+  */
+
 
   /*-----------------------------------*\
     #CONTACT
@@ -895,6 +900,7 @@
       gap: 18px;
       padding: 30px;
     }
+    
   
     .module-icon-box {
       margin-bottom: 0;
@@ -918,6 +924,11 @@
     }
   
     .skills-item:not(:last-child) { margin-bottom: 25px; }
+
+    /**
+      *Certificates
+    */
+
   
     /**
      * #CONTACT
@@ -925,7 +936,7 @@
   
     .mapbox {
       height: 380px;
-      border-radius: 18px;
+      border-radius: 17px;
     }
   
     .input-wrapper {
