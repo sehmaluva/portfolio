@@ -50,7 +50,7 @@
     --smoky-black: hsl(0, 0%, 7%);
     --white-1: hsl(0, 0%, 100%);
     --white-2: hsl(0, 0%, 98%);
-    --red-1:hsl(6, 100%, 50%);
+    --red-1:hsl(0, 100%, 49%);
     --orange-yellow-crayola: hsl(209, 100%, 72%);
     --vegas-gold: hsl(209, 100%, 72%);
     --light-gray: hsl(0, 0%, 84%);
@@ -75,6 +75,7 @@
     --fs-6: 14px;
     --fs-7: 13px;
     --fs-8: 11px;
+    --fs-9: 11px;
   
     /* font-weight */
     --fw-300: 300;
@@ -333,8 +334,8 @@
   }
   .info-content .status{
     color:var(--red-1);
-    background: var(--);
-    font-size: var(--fs-6);
+    background: var(--bg);
+    font-size: var(--fs-9);
     font-weight: var(--fw-500);
     width:max-content;
     padding: 3px 12px;
@@ -750,15 +751,6 @@
   /*-----------------------------------*\
     #RESPONSIVE
   \*-----------------------------------*/
-  
-  /**
-   * responsive larger than 450px screen
-   */
-  
-  @media (min-width: 450px) {
-  
-   
-  
   /**
    * responsive larger than 580px screen
    */
@@ -831,13 +823,20 @@
       margin-bottom: 30px;
     }
   
-    .sidebar.active { max-height: 584px; }
+    .sidebar.active { max-height: 590px; }
   
-    .sidebar-info { gap: 25px; }
+    .sidebar-info { gap: 20px; }
   
-    .avatar-box { border-radius: 30px; }
+    .avatar-box { 
+      border-radius: 30px;
+      
+    }
   
-    .avatar-box img { width: 100px; }
+    .avatar-box img { 
+      width: 100px;
+      border-radius: 20px;
+    
+    }
   
     .info-content .name { margin-bottom: 15px; }
   
@@ -1088,7 +1087,8 @@
   
     .project-list { grid-template-columns: repeat(3, 1fr); }
   
-    
+  } 
+
   /**
    * responsive larger than 1250px screen
    */
@@ -1147,7 +1147,7 @@
      */
   
     .sidebar {
-      position: sticky;
+      position: sticky; 
       top: 60px;
       max-height: max-content;
       height: 100%;
@@ -1202,6 +1202,5 @@
   
     .timeline-text { max-width: 700px; }
   
-  }
   }
 }
