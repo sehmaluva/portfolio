@@ -27,7 +27,7 @@ Feel free to reach out to me for collaboration, inquiries, or just to connect!
 
 - Email: [sehmaluva@gmail.com]
 - LinkedIn: [Malvin T Machingura](https://www.linkedin.com/in/malvin-t-machingura)
-- GitHub: [sehmaluva](https://github.com/sehmaluva)
+- GitHub: [sehmaluva](https://github.com/malvint)
 
 ## License
 
