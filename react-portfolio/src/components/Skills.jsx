@@ -3,9 +3,9 @@ import Reveal from './ScrollReveal'
 
 const groups = [
   {title:'Frontend', items:['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS']},
-  {title:'Backend', items:['Node.js', 'Express', 'REST', 'GraphQL']},
-  {title:'Databases', items:['PostgreSQL', 'MongoDB']},
-  {title:'Tools', items:['Git', 'Docker', 'CI/CD']}
+  {title:'Backend', items:['Django', 'Java', 'C++', 'GraphQL']},
+  {title:'Databases', items:['PostgreSQL', 'MySql']},
+  {title:'Tools', items:['Git', 'Github', 'Docker', 'CI/CD']}
 ]
 
 export default function Skills(){

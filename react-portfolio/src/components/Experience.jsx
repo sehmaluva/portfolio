@@ -2,8 +2,11 @@ import React from 'react'
 import Reveal from './ScrollReveal'
 
 const timeline = [
+  {title: 'Fincheck', date:'May 2025 - Present', desc:"Software Developer Intern"},
+  {title:'Chitungwiza Municipality', date:'February  - April 2025', desc:'IT Student Intern'},
   {title:'Bindura University Of Science Education', date:'Feb 2023 - Present', desc:"Pursuing a degree in Software Engineering, building strong foundations in software development."},
-  {title:'Seke 1 High - Advanced Level', date:'2020 - 2021', desc:'Advanced Level studies; Computer Science (B) and other subjects.'}
+  {title:'Seke 1 High - Advanced Level', date:'2020 - 2021', desc:'Advanced Level Studies'},
+  {title:'Seke 1 High - Ordinary Level', date: '2016- 2019', desc:'Ordinary Level Studies'}
 ]
 
 export default function Experience(){

@@ -6,8 +6,7 @@ export default function About(){
     <Reveal>
       <section id="about" className="section max-w-4xl mx-auto">
         <h2 className="text-2xl font-semibold mb-2">About me</h2>
-        <p className="text-muted">As a driven Software Engineering Student, I'm fueled by a passion for crafting innovative solutions that merge technology and creativity. With a keen interest in Software Development, Machine Learning and Cyber Security. I'm currently looking for an Internship.</p>
-        <p className="text-muted mt-2">I'm seeking an opportunity to expand my skill set in programming languages, frameworks and other related fields. My goal is to gain hands-on experience in a practical setting and enhance my skills in software engineering.</p>
+        <p className="text-muted">As a driven Software Engineering Student, I'm fueled by a passion for crafting innovative solutions that merge technology and creativity. With a keen interest in Software Engineering</p>
 
         <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div>
