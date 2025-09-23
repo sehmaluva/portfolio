@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Malvin Machingura — Full-Stack Developer</title>
+    <script type="module" crossorigin src="/portfolio/assets/index-DwIJClwT.js"></script>
+    <link rel="stylesheet" crossorigin href="/portfolio/assets/index-BOYIUn8h.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      // detect first Tab press to show focus outlines only for keyboard users
+      (function(){
+        function handleFirstTab(e){
+          if(e.key === 'Tab'){
+            document.documentElement.classList.add('keyboard-user')
+            window.removeEventListener('keydown', handleFirstTab)
+          }
+        }
+        window.addEventListener('keydown', handleFirstTab)
+      })()
+    </script>
+  </body>
+</html>
