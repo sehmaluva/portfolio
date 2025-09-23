@@ -60,7 +60,7 @@ export default function Layout({children}){
 
       <footer className="border-t border-gray-200 dark:border-gray-800 mt-12">
         <div className="max-w-4xl mx-auto p-4 text-sm text-muted-foreground">
-          <p className="text-center">© {new Date().getFullYear()} Malvin T Machingura — Built with React + Vite</p>
+          <p className="text-center">© {new Date().getFullYear()} Malvin T Machingura </p>
         </div>
       </footer>
     </div>
