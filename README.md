@@ -17,8 +17,6 @@ I am a passionate software engineering student with a strong foundation knowledg
 
 ## Technologies Used
 
-This portfolio website is built using the following technologies:
-
 - HTML
 - CSS
 - JavaScript
@@ -34,7 +32,3 @@ Feel free to reach out to me for collaboration, inquiries, or just to connect!
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## React version
-
-A React + Vite version of this portfolio is available in `react-portfolio/`. See `react-portfolio/README.md` for run instructions (you'll need to copy the `assets/` folder into `react-portfolio/public/` as described there).
