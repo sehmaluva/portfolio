@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website! This site showcases my skills and experience as a software engineering student. It serves as a digital resume, providing potential employers and collaborators an insight into my work and capabilities.
 
+! [Link to live](https://sehmaluva.me/portfolio/)
+
 ## Table of Contents
 
 - [About Me](#about-me)
