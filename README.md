@@ -25,9 +25,9 @@ I am a passionate software engineering student with a strong foundation knowledg
 
 Feel free to reach out to me for collaboration, inquiries, or just to connect!
 
-- Email: [sehmaluva@gmail.com]
-- LinkedIn: [Malvin T Machingura](https://www.linkedin.com/in/malvin-t-machingura)
-- GitHub: [sehmaluva](https://github.com/malvint)
+- [Email](mailto:sehmaluva@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/malvin-t-machingura)
+- ![GitHub](https://github.com/sehmaluva)
 
 ## License
 
