@@ -1,19 +1,14 @@
-# My Personal Portfolio
-
-Welcome to my personal portfolio website! This site showcases my skills and experience as a software engineering student. It serves as a digital resume, providing potential employers and collaborators an insight into my work and capabilities.
-
-! [Link to live](https://sehmaluva.me/portfolio/)
+# Project Info
+- This is static website build using HTML, CSS, and some JavaScript.
+- It's serves as my onlice CV. and also showing my skills in webdev.
+  
+[Link to live](https://sehmaluva.me/portfolio/)
 
 ## Table of Contents
 
-- [About Me](#about-me)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 - [License](#license)
-
-## About Me
-
-I am a passionate software engineering student with a strong foundation knowledge in web development, mobile app development, cybersecurity and machine learning. I enjoy building intuitive and responsive web applications that provide great user experiences. My portfolio reflects my journey and the skills I have acquired along the way.
 
 ## Technologies Used
 
